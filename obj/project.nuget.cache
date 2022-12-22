@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aCWRXXQclIAeUZTVx3r0qS/JFqzUFsvAaASscztZhnOjolJKpZrwu11qxbw6IZcRlnV8tLzGUXxQn+LPz+8t+A==",
+  "dgSpecHash": "KziPfPz2yEq0e8WeOhJydiU1LZAmoZWiFdd4fSasneK+dXRMdyoBPWcCy1nueqrXczF8ZSX92YjTNzns79MSdQ==",
   "success": true,
-  "projectFilePath": "/home/sha888/csharp/csharp.csproj",
+  "projectFilePath": "/home/sha888/csharp/csharp-start/csharp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
